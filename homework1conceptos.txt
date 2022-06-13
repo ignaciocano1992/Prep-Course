@@ -1,0 +1,27 @@
+Variables
+son como cajitas donde guardas valores que utilizaras en un futuro, por ejemplo en una cajita llamada "numero" guardas el numerito 1 para despues usar esa cajita
+y que tenga como valor el 1 , este valor puede cambiar , o no puede cambiar si se declara como constante, no cambia el valor. 
+
+Strings
+Son letras unidas como un hilo, que se ponen entre comillas, por ejemplo nombre="Ignacio", este es un string, el nombre ignacio es una coleccion de caracteres, lo cual lo hace string
+
+
+Funciones (argumentos, return)
+funciones son objetos invocables es decir a los cuales les puedes ingresar codigo,nombrarlas, declararlas, estas funciones las puedes utilizar o invocar cuando quieras, llamando a la funcion
+por medio del nombre de la funcion y un parentesis, pueden tambien tener argumentos o no entre los parentesis. 
+
+return devuelve un valor dentro de una funcion, este valor es un valor de variables declaradas dentro de la funcion, por ejemplo si una funcion tiene como codigo una 
+variable b=1+1, si pones return b , al llegar al return mostrara 2 y se cortara rapidamente, sin tomar en cuenta lo que sigue.
+
+Declaraciones if
+
+son condicionales o controladores de flujo por medio de esta sentencia se evaluan condicionales por ejemplo si quieres validar que un numero es par 
+realizas la sentencia if para comprobar por ejemplo si un numero declarado en una variable es 2, va a mostrar true, si es 1 , mostrara falso. 
+
+
+Valores booleanos (true, false)
+
+comparan valores logicos por ejemplo compara 2 numeritos , un ejemplo comparar 2=2, esto dara como resultado que es verdad, de lo contrario si
+comparas 2=1 esto dara como resultado falso.
+
+Ignacio Adrian Cano Salas 
