@@ -1,0 +1,5 @@
+* `for`:  El ciclo for se utiliza para repetir una sentencia con una determinada condicion dada en el for por medio de expresiones, por ejemplo si quieres hacer que se impriman los numeros del 1 al 10, basta con decirle al for que inicie desde 0, sea menor igual a 10 y que se aumente de 1 en 1 , el for sirve para ahorrarte bastante codigo. 
+
+
+
+* `&&`, `||`, `!`: Son llamados operadores logicos, el and sirve para determinar que una expresion logica sea verdadera siempre y cuando las dos expresiones sean verdaderas solamente, si una es falsa es falso, el or sirve para determinar si cualquiera de las expresiones a evaluar es verdadera, si alguna de ellas es verdadera, la expresion es verdadera, no importa si las demas son falsas, y por ultimo el !(not) sirve para negar una expresion, si una expresion es true, la hace false, si es false, la hace true. 
