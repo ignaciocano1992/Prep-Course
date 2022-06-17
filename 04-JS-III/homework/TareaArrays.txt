@@ -1,0 +1,5 @@
+* Arrays:
+
+Son variables de tipo arreglo o matriz, son colecciones de datos de diferentes tipos, es como una cajita donde tu guardas los datos
+, puedes acceder a dichos datos mediante distintas tecnicas, modificarlos, y mas. 
+
