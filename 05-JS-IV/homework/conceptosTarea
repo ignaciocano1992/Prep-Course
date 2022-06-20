@@ -1,0 +1,11 @@
+* Objetos: Un objeto es una colección de propiedades, y una propiedad es una asociación entre un nombre (o clave) y un valor. El valor de una propiedad puede ser una función, en cuyo caso la propiedad es conocida como un método. 
+
+	* Propiedades: Una propiedad es un atributo de un objeto que define una de las características del objeto, como el tamaño, el color, la ubicación de la pantalla o un aspecto de su comportamiento, como si está habilitado o es visible. Para cambiar las características de un objeto, se cambian los valores de sus propiedades.
+
+	* Método: Un metodo es una función la cual es propiedad de un Objeto. Existen dos tipos de métodos: Métodos de Instancia los cuales son tareas integradas realizadas por la instacia de un objeto, y los Métodos Estáticos que son tareas que pueden ser llamadas directamente en el constructor de un objeto, estos sirven para resolver diferentes problemas.
+
+
+	* Bucle `for…in`:Una alternativa al bucle for, para recorridos a propiedades de objetos en Javascript. Cómo iterar por las propiedades y los valores de las propiedades de un objeto 
+
+	* Notación de puntos vs notación de corchetes: En Javascript podemos acceder a las propiedades y/o funciones de un objeto usando cualquier notación: el punto . o los corchetes [] , Cuando usamos corchetes podemos acceder a propiedades que tienen un espacio o carácter no permitido en la notación de punto (por ejemplo, miMascota.numero de amigos no es válido, pero miMascota["numero de amigos"] sí lo es).
+Si queremos minificar nuestro código, la notación del punto no es válida... debemos usar la notación de corchetes.
