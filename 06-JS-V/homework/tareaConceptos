@@ -1,0 +1,5 @@
+* `prototype`: prototype lo tienen todos los objetos en javascript, es como lo que hay detras de cada objeto, 
+sus propiedades mas profundas, en prototipo puedes buscar o agregar mas metodos o propiedades de los objetos. 
+
+
+* _Constructors_ (de Clases): se usan para construir objetos, de clases, son como fabricas de objetos, se usan para no repetir codigo y que sea muy facil generar varios objetos de la misma clase. 
