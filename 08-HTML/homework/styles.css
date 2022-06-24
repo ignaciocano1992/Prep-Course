@@ -1,0 +1,28 @@
+
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: blue;
+    padding: 50px;
+    border-width: 30px;
+    border-color: blue;
+    border-style: dashed;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+body{
+    background-image: url("https://s1.eestatic.com/2020/06/03/curiosidades/curiosidades_494961313_153077108_1706x960.jpg");
+   text-align: center;
+}
+
+div{
+    margin: auto;
+}
+
